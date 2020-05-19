@@ -3,6 +3,7 @@ Employee tracker app built with React.js
 
 ![Employee Directory](https://i.imgur.com/yGD7jpP.png)
 
+https://employee-directory-zachbach.herokuapp.com/
 
 ## User Story
 
