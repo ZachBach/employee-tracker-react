@@ -3,7 +3,6 @@ Employee tracker app built with React.js
 
 ![Employee Directory](https://i.imgur.com/yGD7jpP.png)
 
-https://mongoose-fit-tracker.herokuapp.com/
 
 ## User Story
 
